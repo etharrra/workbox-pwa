@@ -1,0 +1,1214 @@
+[
+ {
+   "name": "成田国際空港",
+   "latitude": 35.773584,
+   "longitude": 140.388304,
+   "prefectureID": 12
+ },
+ {
+   "name": "中部地方国際空港",
+   "latitude": 34.866059,
+   "longitude": 136.812448,
+   "prefectureID": 23
+ },
+ {
+   "name": "関西国際空港",
+   "latitude": 34.443914,
+   "longitude": 135.252056,
+   "prefectureID": 27
+ },
+ {
+   "name": "大阪国際空港",
+   "latitude": 34.791486,
+   "longitude": 135.440457,
+   "prefectureID": 27
+ },
+ {
+   "name": "東京国際空港",
+   "latitude": 35.557755,
+   "longitude": 139.753315,
+   "prefectureID": 13
+ },
+ {
+   "name": "新千歳空港",
+   "latitude": 42.787573,
+   "longitude": 141.680844,
+   "prefectureID": 1
+ },
+ {
+   "name": "稚内空港",
+   "latitude": 45.399826,
+   "longitude": 141.798323,
+   "prefectureID": 1
+ },
+ {
+   "name": "釧路空港",
+   "latitude": 43.045163,
+   "longitude": 144.196231,
+   "prefectureID": 1
+ },
+ {
+   "name": "函館空港",
+   "latitude": 41.775646,
+   "longitude": 140.815743,
+   "prefectureID": 1
+ },
+ {
+   "name": "仙台空港",
+   "latitude": 38.143669,
+   "longitude": 140.923307,
+   "prefectureID": 4
+ },
+ {
+   "name": "新潟空港",
+   "latitude": 37.951072,
+   "longitude": 139.112652,
+   "prefectureID": 15
+ },
+ {
+   "name": "広島空港",
+   "latitude": 34.439887,
+   "longitude": 132.918616,
+   "prefectureID": 34
+ },
+ {
+   "name": "高松空港",
+   "latitude": 34.219081,
+   "longitude": 134.019296,
+   "prefectureID": 37
+ },
+ {
+   "name": "松山空港",
+   "latitude": 33.829523,
+   "longitude": 132.701287,
+   "prefectureID": 38
+ },
+ {
+   "name": "高知空港",
+   "latitude": 33.548625,
+   "longitude": 133.672574,
+   "prefectureID": 39
+ },
+ {
+   "name": "福岡空港",
+   "latitude": 33.596785,
+   "longitude": 130.447937,
+   "prefectureID": 40
+ },
+ {
+   "name": "北九州空港",
+   "latitude": 33.838099,
+   "longitude": 131.032089,
+   "prefectureID": 40
+ },
+ {
+   "name": "長崎空港　",
+   "latitude": 32.915307,
+   "longitude": 129.921116,
+   "prefectureID": 42
+ },
+ {
+   "name": "熊本空港",
+   "latitude": 32.834727,
+   "longitude": 130.85913,
+   "prefectureID": 43
+ },
+ {
+   "name": "大分空港",
+   "latitude": 33.469499,
+   "longitude": 131.717594,
+   "prefectureID": 44
+ },
+ {
+   "name": "宮崎空港",
+   "latitude": 31.885073,
+   "longitude": 131.448592,
+   "prefectureID": 45
+ },
+ {
+   "name": "鹿児島空港",
+   "latitude": 31.799208,
+   "longitude": 130.717342,
+   "prefectureID": 46
+ },
+ {
+   "name": "那覇空港",
+   "latitude": 26.206212,
+   "longitude": 127.650625,
+   "prefectureID": 47
+ },
+ {
+   "name": "旭川空港",
+   "latitude": 43.671201,
+   "longitude": 142.453738,
+   "prefectureID": 1
+ },
+ {
+   "name": "帯広空港",
+   "latitude": 42.73357,
+   "longitude": 143.21238,
+   "prefectureID": 1
+ },
+ {
+   "name": "秋田空港",
+   "latitude": 39.612135,
+   "longitude": 140.217361,
+   "prefectureID": 5
+ },
+ {
+   "name": "山形空港",
+   "latitude": 38.409559,
+   "longitude": 140.366385,
+   "prefectureID": 6
+ },
+ {
+   "name": "山口宇部空港",
+   "latitude": 33.932641,
+   "longitude": 131.27375,
+   "prefectureID": 35
+ },
+ {
+   "name": "利尻空港",
+   "latitude": 45.243766,
+   "longitude": 141.183626,
+   "prefectureID": 1
+ },
+ {
+   "name": "礼文空港",
+   "latitude": 45.45239,
+   "longitude": 141.041291,
+   "prefectureID": 1
+ },
+ {
+   "name": "奥尻空港",
+   "latitude": 42.072578,
+   "longitude": 139.435547,
+   "prefectureID": 1
+ },
+ {
+   "name": "中標津空港",
+   "latitude": 43.573267,
+   "longitude": 144.956747,
+   "prefectureID": 1
+ },
+ {
+   "name": "紋別空港",
+   "latitude": 44.305991,
+   "longitude": 143.407653,
+   "prefectureID": 1
+ },
+ {
+   "name": "女満別空港",
+   "latitude": 43.882306,
+   "longitude": 144.15884,
+   "prefectureID": 1
+ },
+ {
+   "name": "青森空港",
+   "latitude": 40.738412,
+   "longitude": 140.689237,
+   "prefectureID": 2
+ },
+ {
+   "name": "花巻空港",
+   "latitude": 39.42148,
+   "longitude": 141.13832,
+   "prefectureID": 3
+ },
+ {
+   "name": "大館能代空港",
+   "latitude": 40.198087,
+   "longitude": 140.373551,
+   "prefectureID": 5
+ },
+ {
+   "name": "庄内空港",
+   "latitude": 38.81576,
+   "longitude": 139.787689,
+   "prefectureID": 6
+ },
+ {
+   "name": "福島空港",
+   "latitude": 37.227104,
+   "longitude": 140.433469,
+   "prefectureID": 7
+ },
+ {
+   "name": "大島空港",
+   "latitude": 34.782519,
+   "longitude": 139.363327,
+   "prefectureID": 13
+ },
+ {
+   "name": "新島空港",
+   "latitude": 34.371048,
+   "longitude": 139.262323,
+   "prefectureID": 13
+ },
+ {
+   "name": "神津島空港",
+   "latitude": 34.190601,
+   "longitude": 139.139377,
+   "prefectureID": 13
+ },
+ {
+   "name": "三宅島空港",
+   "latitude": 34.071992,
+   "longitude": 139.558504,
+   "prefectureID": 13
+ },
+ {
+   "name": "八丈島空港",
+   "latitude": 33.116616,
+   "longitude": 139.783726,
+   "prefectureID": 13
+ },
+ {
+   "name": "佐渡空港",
+   "latitude": 38.062306,
+   "longitude": 138.408531,
+   "prefectureID": 15
+ },
+ {
+   "name": "松本空港",
+   "latitude": 36.164674,
+   "longitude": 137.92636,
+   "prefectureID": 20
+ },
+ {
+   "name": "静岡空港",
+   "latitude": 34.795366,
+   "longitude": 138.179232,
+   "prefectureID": 22
+ },
+ {
+   "name": "富山空港",
+   "latitude": 36.643827,
+   "longitude": 137.189503,
+   "prefectureID": 16
+ },
+ {
+   "name": "能登空港",
+   "latitude": 37.295041,
+   "longitude": 136.957128,
+   "prefectureID": 17
+ },
+ {
+   "name": "福井空港",
+   "latitude": 36.140069,
+   "longitude": 136.221985,
+   "prefectureID": 18
+ },
+ {
+   "name": "神戸空港",
+   "latitude": 34.636718,
+   "longitude": 135.228773,
+   "prefectureID": 28
+ },
+ {
+   "name": "南紀白浜空港",
+   "latitude": 33.661802,
+   "longitude": 135.360964,
+   "prefectureID": 30
+ },
+ {
+   "name": "鳥取空港",
+   "latitude": 35.526633,
+   "longitude": 134.167719,
+   "prefectureID": 31
+ },
+ {
+   "name": "隠岐空港",
+   "latitude": 36.177773,
+   "longitude": 133.330025,
+   "prefectureID": 32
+ },
+ {
+   "name": "出雲空港",
+   "latitude": 35.414531,
+   "longitude": 132.885711,
+   "prefectureID": 32
+ },
+ {
+   "name": "石見空港",
+   "latitude": 34.678151,
+   "longitude": 131.797499,
+   "prefectureID": 32
+ },
+ {
+   "name": "岡山空港",
+   "latitude": 34.760695,
+   "longitude": 133.854376,
+   "prefectureID": 33
+ },
+ {
+   "name": "佐賀空港",
+   "latitude": 33.153521,
+   "longitude": 130.302609,
+   "prefectureID": 41
+ },
+ {
+   "name": "対馬空港",
+   "latitude": 34.285905,
+   "longitude": 129.326163,
+   "prefectureID": 42
+ },
+ {
+   "name": "小値賀空港",
+   "latitude": 33.206224,
+   "longitude": 129.079669,
+   "prefectureID": 42
+ },
+ {
+   "name": "福江空港",
+   "latitude": 32.668266,
+   "longitude": 128.837405,
+   "prefectureID": 42
+ },
+ {
+   "name": "上五島空港",
+   "latitude": 33.011197,
+   "longitude": 129.191523,
+   "prefectureID": 42
+ },
+ {
+   "name": "壱岐空港",
+   "latitude": 33.750243,
+   "longitude": 129.784042,
+   "prefectureID": 42
+ },
+ {
+   "name": "種子島空港",
+   "latitude": 30.609092,
+   "longitude": 130.991708,
+   "prefectureID": 46
+ },
+ {
+   "name": "屋久島空港",
+   "latitude": 30.383373,
+   "longitude": 130.658932,
+   "prefectureID": 46
+ },
+ {
+   "name": "奄美空港",
+   "latitude": 28.4308333,
+   "longitude": 129.7125,
+   "prefectureID": 46
+ },
+ {
+   "name": "喜界空港",
+   "latitude": 28.3197119,
+   "longitude": 129.9254112,
+   "prefectureID": 46
+ },
+ {
+   "name": "徳之島空港",
+   "latitude": 27.831282,
+   "longitude": 128.88278,
+   "prefectureID": 46
+ },
+ {
+   "name": "沖永良部空港",
+   "latitude": 27.4331876,
+   "longitude": 128.70239,
+   "prefectureID": 46
+ },
+ {
+   "name": "与論空港",
+   "latitude": 27.045732,
+   "longitude": 128.413307,
+   "prefectureID": 46
+ },
+ {
+   "name": "粟国空港",
+   "latitude": 26.592802,
+   "longitude": 127.239383,
+   "prefectureID": 47
+ },
+ {
+   "name": "久米島空港",
+   "latitude": 26.364903,
+   "longitude": 126.717536,
+   "prefectureID": 47
+ },
+ {
+   "name": "慶良間空港",
+   "latitude": 26.176589,
+   "longitude": 127.292228,
+   "prefectureID": 47
+ },
+ {
+   "name": "南大東空港",
+   "latitude": 25.846023,
+   "longitude": 131.265488,
+   "prefectureID": 47
+ },
+ {
+   "name": "北大東空港",
+   "latitude": 25.944687,
+   "longitude": 131.324461,
+   "prefectureID": 47
+ },
+ {
+   "name": "伊江島空港",
+   "latitude": 26.713491,
+   "longitude": 127.807017,
+   "prefectureID": 47
+ },
+ {
+   "name": "宮古空港",
+   "latitude": 24.779484,
+   "longitude": 125.2974,
+   "prefectureID": 47
+ },
+ {
+   "name": "下地島空港",
+   "latitude": 24.825873,
+   "longitude": 125.150231,
+   "prefectureID": 47
+ },
+ {
+   "name": "多良間空港",
+   "latitude": 24.653942,
+   "longitude": 124.677557,
+   "prefectureID": 47
+ },
+ {
+   "name": "新石垣空港",
+   "latitude": 24.391097,
+   "longitude": 124.245971,
+   "prefectureID": 47
+ },
+ {
+   "name": "波照間空港",
+   "latitude": 24.27325,
+   "longitude": 123.880104,
+   "prefectureID": 47
+ },
+ {
+   "name": "与那国空港",
+   "latitude": 24.465316,
+   "longitude": 122.98001,
+   "prefectureID": 47
+ },
+ {
+   "name": "調布飛行場",
+   "latitude": 35.667548,
+   "longitude": 139.525696,
+   "prefectureID": 13
+ },
+ {
+   "name": "名古屋飛行場",
+   "latitude": 35.242505,
+   "longitude": 136.914359,
+   "prefectureID": 23
+ },
+ {
+   "name": "但馬飛行場",
+   "latitude": 35.5162542,
+   "longitude": 134.787167,
+   "prefectureID": 28
+ },
+ {
+   "name": "岡南飛行場",
+   "latitude": 34.592758,
+   "longitude": 133.928727,
+   "prefectureID": 33
+ },
+ {
+   "name": "天草飛行場",
+   "latitude": 32.482774,
+   "longitude": 130.155392,
+   "prefectureID": 43
+ },
+ {
+   "name": "大分県央飛行場",
+   "latitude": 33.028123,
+   "longitude": 131.501928,
+   "prefectureID": 44
+ },
+ {
+   "name": "八尾空港",
+   "latitude": 34.5979998,
+   "longitude": 135.594072,
+   "prefectureID": 27
+ },
+ {
+   "name": "札幌飛行場",
+   "latitude": 34.597708,
+   "longitude": 135.592731,
+   "prefectureID": 1
+ },
+ {
+   "name": "千歳飛行場",
+   "latitude": 43.115503,
+   "longitude": 141.396013,
+   "prefectureID": 1
+ },
+ {
+   "name": "三沢飛行場",
+   "latitude": 40.695388,
+   "longitude": 141.38586,
+   "prefectureID": 2
+ },
+ {
+   "name": "百里飛行場",
+   "latitude": 36.177872,
+   "longitude": 140.407566,
+   "prefectureID": 8
+ },
+ {
+   "name": "小松飛行場",
+   "latitude": 36.403686,
+   "longitude": 136.418301,
+   "prefectureID": 17
+ },
+ {
+   "name": "美保飛行場",
+   "latitude": 35.500609,
+   "longitude": 133.245094,
+   "prefectureID": 31
+ },
+ {
+   "name": "岩国飛行場",
+   "latitude": 34.15884,
+   "longitude": 132.234885,
+   "prefectureID": 35
+ },
+ {
+   "name": "徳島飛行場",
+   "latitude": 34.134549,
+   "longitude": 134.616419,
+   "prefectureID": 36
+ },
+ {
+   "name": "室蘭港",
+   "latitude": 42.323043,
+   "longitude": 140.971585,
+   "prefectureID": 1
+ },
+ {
+   "name": "苫小牧港",
+   "latitude": 42.644935,
+   "longitude": 141.623193,
+   "prefectureID": 1
+ },
+ {
+   "name": "稚内港",
+   "latitude": 45.415647,
+   "longitude": 141.673096,
+   "prefectureID": 1
+ },
+ {
+   "name": "函館港",
+   "latitude": 41.768749,
+   "longitude": 140.728924,
+   "prefectureID": 1
+ },
+ {
+   "name": "小樽港",
+   "latitude": 43.200885,
+   "longitude": 141.00308,
+   "prefectureID": 1
+ },
+ {
+   "name": "釧路港",
+   "latitude": 42.982849,
+   "longitude": 144.380811,
+   "prefectureID": 1
+ },
+ {
+   "name": "留萌港",
+   "latitude": 43.940932,
+   "longitude": 141.636996,
+   "prefectureID": 1
+ },
+ {
+   "name": "網走港",
+   "latitude": 44.018007,
+   "longitude": 144.286186,
+   "prefectureID": 1
+ },
+ {
+   "name": "沓形港",
+   "latitude": 45.18546,
+   "longitude": 141.136674,
+   "prefectureID": 1
+ },
+ {
+   "name": "青森港",
+   "latitude": 40.828576,
+   "longitude": 140.747017,
+   "prefectureID": 2
+ },
+ {
+   "name": "仙台塩釜港石巻港区",
+   "latitude": 38.417142,
+   "longitude": 141.266206,
+   "prefectureID": 4
+ },
+ {
+   "name": "能代港",
+   "latitude": 39.751761,
+   "longitude": 140.064254,
+   "prefectureID": 5
+ },
+ {
+   "name": "船川港",
+   "latitude": 40.188277,
+   "longitude": 139.994861,
+   "prefectureID": 5
+ },
+ {
+   "name": "酒田港",
+   "latitude": 39.875096,
+   "longitude": 139.843268,
+   "prefectureID": 5
+ },
+ {
+   "name": "八戸港",
+   "latitude": 40.55024,
+   "longitude": 141.500443,
+   "prefectureID": 6
+ },
+ {
+   "name": "大湊港",
+   "latitude": 41.283615,
+   "longitude": 141.173726,
+   "prefectureID": 2
+ },
+ {
+   "name": "大船渡港",
+   "latitude": 39.060932,
+   "longitude": 141.71888,
+   "prefectureID": 3
+ },
+ {
+   "name": "久慈港",
+   "latitude": 40.186083,
+   "longitude": 141.776424,
+   "prefectureID": 3
+ },
+ {
+   "name": "宮古港",
+   "latitude": 39.635673,
+   "longitude": 141.961584,
+   "prefectureID": 3
+ },
+ {
+   "name": "小名浜港",
+   "latitude": 36.946547,
+   "longitude": 140.906355,
+   "prefectureID": 7
+ },
+ {
+   "name": "七里長浜港",
+   "latitude": 40.795816,
+   "longitude": 140.241428,
+   "prefectureID": 2
+ },
+ {
+   "name": "仙台塩釜港仙台港区",
+   "latitude": 38.273536,
+   "longitude": 141.017905,
+   "prefectureID": 4
+ },
+ {
+   "name": "茨城港（常陸那珂港区・大洗港区）",
+   "latitude": 36.309282,
+   "longitude": 140.573477,
+   "prefectureID": 8
+ },
+ {
+   "name": "館山港",
+   "latitude": 34.989606,
+   "longitude": 139.854311,
+   "prefectureID": 12
+ },
+ {
+   "name": "東京港",
+   "latitude": 35.646969,
+   "longitude": 139.773156,
+   "prefectureID": 13
+ },
+ {
+   "name": "横浜港",
+   "latitude": 35.451379,
+   "longitude": 139.647477,
+   "prefectureID": 14
+ },
+ {
+   "name": "木更津港",
+   "latitude": 35.370655,
+   "longitude": 139.892219,
+   "prefectureID": 12
+ },
+ {
+   "name": "川崎港",
+   "latitude": 35.531986,
+   "longitude": 139.69854,
+   "prefectureID": 14
+ },
+ {
+   "name": "新潟港",
+   "latitude": 37.930888,
+   "longitude": 139.066081,
+   "prefectureID": 15
+ },
+ {
+   "name": "伏木富山港（伏木地区）",
+   "latitude": 36.799986,
+   "longitude": 137.064653,
+   "prefectureID": 16
+ },
+ {
+   "name": "金沢港",
+   "latitude": 36.60767,
+   "longitude": 136.615478,
+   "prefectureID": 17
+ },
+ {
+   "name": "七尾港",
+   "latitude": 37.045279,
+   "longitude": 136.974883,
+   "prefectureID": 17
+ },
+ {
+   "name": "敦賀港",
+   "latitude": 35.659713,
+   "longitude": 136.072237,
+   "prefectureID": 18
+ },
+ {
+   "name": "小木港",
+   "latitude": 37.817175,
+   "longitude": 138.276833,
+   "prefectureID": 17
+ },
+ {
+   "name": "清水港",
+   "latitude": 35.00868,
+   "longitude": 138.496171,
+   "prefectureID": 22
+ },
+ {
+   "name": "名古屋港",
+   "latitude": 35.09191,
+   "longitude": 136.882776,
+   "prefectureID": 23
+ },
+ {
+   "name": "四日市港",
+   "latitude": 34.993326,
+   "longitude": 136.657559,
+   "prefectureID": 24
+ },
+ {
+   "name": "三河港",
+   "latitude": 34.813804,
+   "longitude": 137.215837,
+   "prefectureID": 23
+ },
+ {
+   "name": "鳥羽港",
+   "latitude": 34.487753,
+   "longitude": 136.8437,
+   "prefectureID": 24
+ },
+ {
+   "name": "御前崎港",
+   "latitude": 34.609025,
+   "longitude": 138.216635,
+   "prefectureID": 22
+ },
+ {
+   "name": "田子の浦港",
+   "latitude": 35.143553,
+   "longitude": 138.698042,
+   "prefectureID": 22
+ },
+ {
+   "name": "熱海港",
+   "latitude": 35.089882,
+   "longitude": 139.076245,
+   "prefectureID": 22
+ },
+ {
+   "name": "伊東港",
+   "latitude": 34.971573,
+   "longitude": 139.102844,
+   "prefectureID": 22
+ },
+ {
+   "name": "下田港",
+   "latitude": 34.674701,
+   "longitude": 138.952801,
+   "prefectureID": 22
+ },
+ {
+   "name": "沼津港",
+   "latitude": 35.082525,
+   "longitude": 138.854516,
+   "prefectureID": 22
+ },
+ {
+   "name": "大井川港",
+   "latitude": 34.779859,
+   "longitude": 138.297625,
+   "prefectureID": 22
+ },
+ {
+   "name": "京都舞鶴港",
+   "latitude": 35.450749,
+   "longitude": 135.324095,
+   "prefectureID": 26
+ },
+ {
+   "name": "大阪港",
+   "latitude": 34.656868,
+   "longitude": 135.431256,
+   "prefectureID": 27
+ },
+ {
+   "name": "姫路港",
+   "latitude": 34.784685,
+   "longitude": 134.662252,
+   "prefectureID": 28
+ },
+ {
+   "name": "神戸港",
+   "latitude": 34.680473,
+   "longitude": 135.20291,
+   "prefectureID": 28
+ },
+ {
+   "name": "和歌山下津港",
+   "latitude": 34.19254,
+   "longitude": 135.157665,
+   "prefectureID": 30
+ },
+ {
+   "name": "日高港",
+   "latitude": 33.867114,
+   "longitude": 135.161638,
+   "prefectureID": 30
+ },
+ {
+   "name": "新宮港",
+   "latitude": 33.685576,
+   "longitude": 135.984814,
+   "prefectureID": 30
+ },
+ {
+   "name": "堺泉北港",
+   "latitude": 34.509041,
+   "longitude": 135.395903,
+   "prefectureID": 27
+ },
+ {
+   "name": "阪南港",
+   "latitude": 34.509041,
+   "longitude": 135.395903,
+   "prefectureID": 27
+ },
+ {
+   "name": "鳥取港",
+   "latitude": 35.534658,
+   "longitude": 134.196366,
+   "prefectureID": 31
+ },
+ {
+   "name": "境港",
+   "latitude": 35.545366,
+   "longitude": 133.222794,
+   "prefectureID": 31
+ },
+ {
+   "name": "浜田港",
+   "latitude": 34.882939,
+   "longitude": 132.058313,
+   "prefectureID": 32
+ },
+ {
+   "name": "宇野港",
+   "latitude": 34.49492,
+   "longitude": 133.951256,
+   "prefectureID": 33
+ },
+ {
+   "name": "広島港",
+   "latitude": 34.35502,
+   "longitude": 132.464045,
+   "prefectureID": 34
+ },
+ {
+   "name": "福山港",
+   "latitude": 34.435064,
+   "longitude": 133.437441,
+   "prefectureID": 34
+ },
+ {
+   "name": "呉港",
+   "latitude": 34.24241,
+   "longitude": 132.546817,
+   "prefectureID": 34
+ },
+ {
+   "name": "岩国港",
+   "latitude": 34.186009,
+   "longitude": 132.230441,
+   "prefectureID": 35
+ },
+ {
+   "name": "下関港",
+   "latitude": 33.945415,
+   "longitude": 130.922906,
+   "prefectureID": 35
+ },
+ {
+   "name": "徳山下松港",
+   "latitude": 33.747083,
+   "longitude": 129.690935,
+   "prefectureID": 35
+ },
+ {
+   "name": "三田尻中関港",
+   "latitude": 34.009145,
+   "longitude": 131.552664,
+   "prefectureID": 35
+ },
+ {
+   "name": "宇部港",
+   "latitude": 33.931167,
+   "longitude": 131.231357,
+   "prefectureID": 35
+ },
+ {
+   "name": "萩港",
+   "latitude": 34.44176,
+   "longitude": 131.420074,
+   "prefectureID": 35
+ },
+ {
+   "name": "徳島小松島港",
+   "latitude": 33.985882,
+   "longitude": 134.627855,
+   "prefectureID": 36
+ },
+ {
+   "name": "高松港",
+   "latitude": 34.356136,
+   "longitude": 134.047612,
+   "prefectureID": 37
+ },
+ {
+   "name": "松山港",
+   "latitude": 33.857281,
+   "longitude": 132.710272,
+   "prefectureID": 38
+ },
+ {
+   "name": "今治港",
+   "latitude": 34.069734,
+   "longitude": 133.005112,
+   "prefectureID": 38
+ },
+ {
+   "name": "高知港",
+   "latitude": 33.516522,
+   "longitude": 133.592563,
+   "prefectureID": 39
+ },
+ {
+   "name": "四国エリア地図",
+   "latitude": 32.920511,
+   "longitude": 132.676014,
+   "prefectureID": 39
+ },
+ {
+   "name": "坂出港",
+   "latitude": 34.326632,
+   "longitude": 133.890579,
+   "prefectureID": 37
+ },
+ {
+   "name": "宇和島港",
+   "latitude": 33.219829,
+   "longitude": 132.547825,
+   "prefectureID": 38
+ },
+ {
+   "name": "新居浜港",
+   "latitude": 33.980556,
+   "longitude": 133.324764,
+   "prefectureID": 38
+ },
+ {
+   "name": "北九州港",
+   "latitude": 33.94301,
+   "longitude": 130.958576,
+   "prefectureID": 40
+ },
+ {
+   "name": "博多港",
+   "latitude": 33.609439,
+   "longitude": 130.401343,
+   "prefectureID": 40
+ },
+ {
+   "name": "唐津港",
+   "latitude": 33.47249,
+   "longitude": 129.951751,
+   "prefectureID": 41
+ },
+ {
+   "name": "伊万里港",
+   "latitude": 33.309129,
+   "longitude": 129.817688,
+   "prefectureID": 41
+ },
+ {
+   "name": "長崎港",
+   "latitude": 32.7357,
+   "longitude": 129.871029,
+   "prefectureID": 42
+ },
+ {
+   "name": "川内港",
+   "latitude": 33.330112,
+   "longitude": 129.520367,
+   "prefectureID": 42
+ },
+ {
+   "name": "福江港",
+   "latitude": 32.695359,
+   "longitude": 128.848162,
+   "prefectureID": 42
+ },
+ {
+   "name": "青方港",
+   "latitude": 32.975123,
+   "longitude": 129.060272,
+   "prefectureID": 42
+ },
+ {
+   "name": "郷ノ浦港",
+   "latitude": 33.747083,
+   "longitude": 129.690935,
+   "prefectureID": 42
+ },
+ {
+   "name": "厳原港",
+   "latitude": 34.197868,
+   "longitude": 129.292751,
+   "prefectureID": 42
+ },
+ {
+   "name": "佐世保港",
+   "latitude": 33.163742,
+   "longitude": 129.722465,
+   "prefectureID": 42
+ },
+ {
+   "name": "八代港",
+   "latitude": 32.512491,
+   "longitude": 130.565927,
+   "prefectureID": 43
+ },
+ {
+   "name": "別府港",
+   "latitude": 33.308617,
+   "longitude": 131.503896,
+   "prefectureID": 44
+ },
+ {
+   "name": "宮崎港",
+   "latitude": 31.903149,
+   "longitude": 131.455247,
+   "prefectureID": 45
+ },
+ {
+   "name": "油津港",
+   "latitude": 31.578148,
+   "longitude": 131.408085,
+   "prefectureID": 45
+ },
+ {
+   "name": "細島港",
+   "latitude": 32.433049,
+   "longitude": 131.647575,
+   "prefectureID": 45
+ },
+ {
+   "name": "鹿児島港",
+   "latitude": 31.536248,
+   "longitude": 130.551768,
+   "prefectureID": 46
+ },
+ {
+   "name": "名瀬港",
+   "latitude": 28.396648,
+   "longitude": 129.493718,
+   "prefectureID": 46
+ },
+ {
+   "name": "宮之浦港",
+   "latitude": 30.424542,
+   "longitude": 130.571028,
+   "prefectureID": 46
+ },
+ {
+   "name": "熊本港",
+   "latitude": 32.763527,
+   "longitude": 130.590053,
+   "prefectureID": 43
+ },
+ {
+   "name": "三角港",
+   "latitude": 32.606985,
+   "longitude": 130.471058,
+   "prefectureID": 43
+ },
+ {
+   "name": "中津港",
+   "latitude": 33.605786,
+   "longitude": 131.244644,
+   "prefectureID": 44
+ },
+ {
+   "name": "小浜港",
+   "latitude": 32.730204,
+   "longitude": 130.208287,
+   "prefectureID": 42
+ },
+ {
+   "name": "佐伯港",
+   "latitude": 32.9764481,
+   "longitude": 131.9060679,
+   "prefectureID": 44
+ },
+ {
+   "name": "本部港",
+   "latitude": 26.639261,
+   "longitude": 127.880138,
+   "prefectureID": 47
+ },
+ {
+   "name": "那覇港",
+   "latitude": 26.210734,
+   "longitude": 127.67024,
+   "prefectureID": 47
+ },
+ {
+   "name": "平良港",
+   "latitude": 24.805931,
+   "longitude": 125.275093,
+   "prefectureID": 47
+ },
+ {
+   "name": "石垣港",
+   "latitude": 24.337886,
+   "longitude": 124.148959,
+   "prefectureID": 47
+ }
+]
